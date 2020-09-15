@@ -1,0 +1,47 @@
+
+body{
+    
+    margin: 0px auto;
+    text-align: center;
+    color: rgb(160, 103, 43);
+    background-image: url("../images/background.png");
+    background-size:cover;
+    background-repeat: no-repeat;
+    font-family:'Arial Narrow Bold', sans-serif;
+    
+}
+
+h1{
+    color: rgb(138, 96, 34);
+}
+h3,h2{
+    color: rosybrown
+}
+.principal{
+    margin: 50px 70px auto;
+    text-align: left;
+}
+
+table{
+    
+    margin: 0px auto;
+    text-align: center;
+}
+
+.img_principal{
+   width: 400px; 
+   height: 400px;
+   
+}
+.miembros{
+    margin: 50px 70px auto;
+    text-align: left;
+}
+
+a {
+    color: rgb(202, 172, 39);
+  }
+
+button{
+    background-color:rgb(231, 210, 163) ;
+}
